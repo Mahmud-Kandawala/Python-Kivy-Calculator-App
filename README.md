@@ -1,6 +1,6 @@
 # Python-Kivy-Calculator App
  
-This is a calculator app I built while learning how to build a mobile application completely from scratch using python. I used the kivy module to create the app. The purpose of this project is to create a calculator in python while create amazing cross platform mobile applications for both android & iOS devices. The goal of this project is to learn and showcase the versatilty of coding in python. To better showchase the project, I converted the python script to a EXE file enabling the user to have a smoother and faster experience rather than the apk app. 
+This is a basic calculator app I built while learning how to build a mobile application completely from scratch using python. I used the kivy module to create the app. The purpose of this project is to create a calculator in python while creating an amazing cross platform mobile applications for both android & iOS devices. The goal of this project is to learn and showcase the versatilty of coding in python. Regarding the execution the project, I converted the python script to an EXE file enabling the user to have a smoother and faster experience. 
 
 
 ## What I Learned/Project Covers
