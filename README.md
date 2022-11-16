@@ -24,7 +24,7 @@
 
 Calculator Screen:
 
-<img src = "images/home.png" width = 750 height= 600> 
+<img src = "images/home.png" width = 650 height= 500> 
 
 Addition Screen:
 
