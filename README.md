@@ -23,7 +23,7 @@
 ## Pictures
 
 Calculator Screen:
-<img src = "images/home.png"> 
+<img src = "images/home.png" width = 500 height= 500> 
 
 Addition Screen:
 <img src = "images/adding1.png"> 
