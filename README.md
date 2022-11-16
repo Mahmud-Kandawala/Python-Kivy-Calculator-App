@@ -33,4 +33,4 @@ Make sure you have the latest version of Python installed.
 
 ## Viewing The App
 
-Download and Run EXE File in `EXE (Folder)`
+Download and Run EXE File in `EXE Folder called "Main"`
