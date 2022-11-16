@@ -6,17 +6,11 @@
 ## What I Learned/Project Covers
 
 ```
-- Directory Structure
-- Creating Routes/Views
-- Jinja Templating Language & HTML Templates
-- Login & Sign Up Page HTML 
-- HTTP Requests (POST, GET, etc.)
-- Handling POST Requests
-- Flask SQLAlchemy Setup
-- Database Models, Foreign Key Relationships, & Database Creation
-- Creating New User Accounts & Logging In Users 
-- Checking if User is Logged In & Notes HTML
-- Adding User Notes & Deleting User Notes
+- Python App development
+- Using Python to create Mobile Apps and/or EXE files
+- How to use Kivy and kivymd
+- Beautiful design in kivy.
+- Labels, layouts, images etc.
 ```
 
 
