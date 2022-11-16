@@ -25,6 +25,12 @@
 Calculator Screen:
 <img src = "images/home.png"> 
 
+Addition Screen:
+<img src = "images/adding1.png"> 
+
+Total Screen:
+<img src = "images/total.png"> 
+
 
 ## Setup 
 
