@@ -28,11 +28,11 @@ Calculator Screen:
 
 Addition Screen:
 
-<img src = "images/adding1.png"> 
+<img src = "images/adding1.png" width = 550 height= 400> 
 
 Total Screen:
 
-<img src = "images/total.png"> 
+<img src = "images/total.png" width = 550 height= 400> 
 
 
 ## Setup 
