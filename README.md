@@ -5,6 +5,14 @@
 
 The **Python-Kivy-Calculator** is a cross-platform mobile application developed using Python and the Kivy framework. This project demonstrates the creation of a basic yet functional calculator app, capable of running on both Android and iOS devices. The primary objective is to highlight the flexibility and power of Python in mobile app development and provide users with a seamless and efficient experience by converting the Python script into an executable (EXE) file.
 
+## Motivation
+
+The motivation behind this project is to explore the capabilities of Python in the realm of mobile app development. By creating a calculator app, we aim to showcase the ease with which Python, combined with the Kivy framework, can be used to develop cross-platform applications. This project also serves as a learning opportunity to understand the intricacies of mobile app development and deployment on different platforms.
+
+## Purpose
+
+The purpose of this project is to provide a simple, yet functional calculator app that demonstrates core arithmetic operations. It is designed to offer an intuitive user interface and smooth performance, making it an ideal example for those looking to understand mobile app development using Python.
+
 ## Features
 
 - **Cross-Platform Compatibility**: Fully functional on both Android and iOS devices.
@@ -23,16 +31,64 @@ This project covers several essential aspects of mobile app development, includi
 - **UI/UX Design**: Implementing beautiful design elements such as labels, layouts, and images in Kivy.
 - **Cross-Platform Deployment**: Building and deploying mobile applications on both Android and iOS platforms.
 
+## Data Flow
+
+The data flows through the application in a straightforward manner. User inputs are captured through the interface, processed by the Python script, and the results are displayed back to the user. The Kivy framework handles the user interface elements, while the core arithmetic logic is implemented in Python.
+
+## Prioritization
+
+### Tackled:
+
+1. **Core Functionality**: Ensuring the basic arithmetic operations work correctly.
+2. **User Interface**: Creating an intuitive and visually appealing design.
+3. **Cross-Platform Support**: Making sure the app runs on both Android and iOS.
+4. **Performance Optimization**: Converting the Python script to an EXE for better performance.
+
+### Not Tackled:
+
+1. **Advanced Features**: Features like scientific calculations or graph plotting were not included to maintain simplicity.
+2. **Backend Integration**: No backend services were integrated as the focus was on the core functionality and UI/UX.
+
+These decisions were made to keep the project scope manageable and focus on delivering a polished core product.
+
+## Notable Features
+
+- Cross-platform compatibility
+- User-friendly interface
+- Basic arithmetic operations
+- Performance optimization through EXE conversion
+
+## Lessons Learned
+
+Throughout the development of this project, several important lessons were learned:
+
+- **Framework Familiarity**: Gained a deep understanding of the Kivy framework and its capabilities.
+- **Cross-Platform Challenges**: Learned about the challenges of ensuring compatibility across different operating systems.
+- **UI/UX Design**: Appreciated the importance of designing an intuitive and visually appealing interface.
+- **Performance Optimization**: Understood the benefits and techniques of optimizing a Python script for better performance.
+
+## Problems Faced and Solutions
+
+### Problems:
+
+1. **Cross-Platform Compatibility**: Ensuring the app worked seamlessly on both Android and iOS was challenging due to differences in platform-specific requirements.
+2. **Performance Issues**: The initial Python script was not optimized for mobile performance.
+
+### Solutions:
+
+1. **Kivy Framework**: Leveraged the Kivy framework’s built-in support for cross-platform development to address compatibility issues.
+2. **Script Optimization**: Converted the Python script into an EXE file to improve performance and reduce execution time.
+
 ## Screenshots
 
 ### Calculator Screen
-<img src="images/home.png" width="550" height="400" alt="Calculator Screen">
+![Calculator Screen](images/home.png)
 
 ### Addition Screen
-<img src="images/adding1.png" width="550" height="400" alt="Addition Screen">
+![Addition Screen](images/adding1.png)
 
 ### Total Screen
-<img src="images/total.png" width="550" height="400" alt="Total Screen">
+![Total Screen](images/total.png)
 
 ## Setup
 
@@ -68,7 +124,3 @@ To run the application, follow these steps:
 ## Viewing the App
 
 For an enhanced user experience, download and run the EXE file located in the `EXE` folder named "Main".
-
----
-
-This README provides a comprehensive overview of the Python-Kivy-Calculator app, highlighting its features, learning outcomes, and setup instructions. The goal is to offer clear and detailed information for both developers and users interested in exploring the capabilities of Python in mobile app development.
